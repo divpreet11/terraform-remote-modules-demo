@@ -1,6 +1,6 @@
 module "alert_policy" {
   source    = "./alert_policy"
-  policices = var.policices
+  policies1 = var.policies1
 }
 
 module "one_dashboard" {
